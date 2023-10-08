@@ -34,7 +34,7 @@ Bu proje, kullanıcılara izledikleri filmlere dayalı olarak diğer filmleri ta
 - [numpy](https://numpy.org/)
 - [scikit-learn](https://scikit-learn.org/)
 - [TMDb API](https://www.themoviedb.org/documentation/api)
-
+ 
 - Dataset link : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 - NLP ve streamlit kullanarak tavsiye sistemi oluşturuldu, end_to_end NLP projesi örneğidir.
 - Kodlara açıklamalar yorum olarak eklenmiştir.
