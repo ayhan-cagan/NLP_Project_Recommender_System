@@ -35,6 +35,7 @@ Bu proje, kullanıcılara izledikleri filmlere dayalı olarak diğer filmleri ta
 - [scikit-learn](https://scikit-learn.org/)
 - [TMDb API](https://www.themoviedb.org/documentation/api)
 
+- Dataset link : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 - NLP ve streamlit kullanarak tavsiye sistemi oluşturuldu, end_to_end NLP projesi örneğidir.
 - Kodlara açıklamalar yorum olarak eklenmiştir.
 - TMDb API'sine bir GET isteği yapmak için bir ID kullanılır.
@@ -44,7 +45,7 @@ Bu proje, kullanıcılara izledikleri filmlere dayalı olarak diğer filmleri ta
 - data.json() ile alınan veri JSON formatından Python sözlüğüne dönüştürülür.
 - Veriden film posterinin dosya yoluna erişilir ve poster_path adında bir değişkene atanır. Bu dosya yolunun örneği şöyle görünebilir: -- /abc123xyz.jpg
 
-- 
+
 
 
 
